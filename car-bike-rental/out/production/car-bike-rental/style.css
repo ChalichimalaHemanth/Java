@@ -1,0 +1,8 @@
+
+body { font-family: Arial; margin: 20px; background: #f9f9f9; }
+h1 { text-align: center; }
+.vehicle-container { display: flex; justify-content: center; flex-wrap: wrap; }
+.vehicle { border: 1px solid #ccc; background: #fff; padding: 15px; margin: 15px; width: 220px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+img { width: 200px; height: 120px; margin-bottom: 10px; }
+button { background: #007bff; color: white; border: none; padding: 8px 16px; cursor: pointer; border-radius: 4px; }
+button:hover { background: #0056b3; }
